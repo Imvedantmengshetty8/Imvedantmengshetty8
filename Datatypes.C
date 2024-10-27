@@ -74,6 +74,38 @@ Displaying integers: 1
 
 
 
+3. User defined data types 
+
+
+#include <stdio.h>
+
+int main() {
+    short int VedVyas= 12974;
+    printf("The short int variable VedVyas has value: %d",VedVyas);
+    return 0;
+}
+
+
+
+Output:
+
+The short int variable VedVyas has value: 12974
+[Process completed - press Enter]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
