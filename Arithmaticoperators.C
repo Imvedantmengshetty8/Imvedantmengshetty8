@@ -158,4 +158,41 @@ Press ENTER to exit console.
 
 
 
+
     
+    
+    
+//code for arithmetic operators //
+#include <stdio.h>
+
+int main() {
+     int main;
+     int a,b;
+     a= 52;
+     b= 48;
+     
+    //operation for addition//
+    printf("a+b=%d\n",a+b);
+    //operation for subtraction//
+    printf("a-b=%d\n",a-b);
+    //operation for multiplication//
+    printf("a*b=%d\n",a*b);
+    //operation for division//
+    printf("a/b=%d\n",a/b);
+    //operation for modulus//
+    printf("a%b=%d\n",a%b);
+    return 0;
+}
+
+
+
+Output:
+
+
+a+b=100
+a-b=4
+a*b=2496
+a/b=1
+a100=6
+
+[Process completed - press Enter]
